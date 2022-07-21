@@ -14,6 +14,8 @@
   </div>
   <h1>Vite + Svelte</h1>
 
+  <div class="hello"></div>
+
   <div class="card">
     <Counter />
   </div>
