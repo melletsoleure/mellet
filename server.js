@@ -1,6 +1,4 @@
 const { Router } = require("express");
-const {graphqlHTTP}  = require("express-graphql")
-const {buildSchema}  = require("graphql")
 const express = require("express")
 const app = require("express")()
 const path = require("path")
